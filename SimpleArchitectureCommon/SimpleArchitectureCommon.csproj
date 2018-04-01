@@ -4,9 +4,4 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="IServices\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>
